@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.robhaenenfloow2.floow2" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>FLOOW2</name>
+<widget id="nl.rob@heelnederlanddeelt.hnldt" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>HeelNederlandDeelt</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
     </description>
-    <author email="robhaenen@floow2.com" href="http://www.floow2.com/fl2-en-mobile.html">
-         FLOOW2 Team
+    <author email="rob@heelnederlanddeelt.nl" href="http://www.heelnederlanddeelt.nl/heelnederlanddeel-mobiel-30.html">
+          HeelNederlandDeelt BV
     </author>
     <content src="index.html" />
 	<preference name="permissions" value="none" />
